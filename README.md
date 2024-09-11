@@ -1,5 +1,7 @@
 # Filme Teca
 
+![GIF de desmonstração do funcionamento do projeto](https://i.imgur.com/S30Te51.gif)
+
 ## 📜 Descrição
 
 Projeto desevolvido para um artigo espositivo sobre o Thymeleaf. O projeto conta com duas páginas, onde a primeira na rota `filme/formulario` é cadastrado. Agora a rota `filme` lista todas os filmes cadastrados.
